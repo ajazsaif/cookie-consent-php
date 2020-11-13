@@ -1,0 +1,20 @@
+{
+    "name": "ajaz/cookie-consent-php",
+    "description": "A simple PHP cookie consent widget that helps to EU Cookie Law",
+    "keywords": ["php", "cookie", "cokie consent", "cookie-consent-php", "cookie-consent", "cookie-consent-popup","php-cookie-consent"],
+    "homepage": "https://github.com/ajazsaif/cookie-consent-php",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ajaz",
+            "email": "ajazaalam@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Ajaz\\CookieConsent\\": "src/"
+        }
+    },
+    "require": {}
+}
