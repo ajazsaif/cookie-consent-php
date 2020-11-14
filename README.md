@@ -21,7 +21,7 @@ require 'vendor/autoload.php';
 	'consentType'=> Config::EXPRESS,
 	'palette'=> Config::DARK_SKIN,
 	'cookiesPolicyUrl'=> 'http://www.example.com/cookie-policy',
-]) ?>
+]); ?>
 
 ```
 
