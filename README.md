@@ -6,3 +6,21 @@ PHP Cookie Consent Widget
 ```
 composer require ajaz/cookie-consent-php
 ```
+
+### How to use
+
+```php
+use Ajaz\CookieConsent\Widget;
+use Ajaz\CookieConsent\Config;
+
+require 'vendor/autoload.php';
+
+<?php echo Widget::run([
+	'websiteName'=>'Your website name',
+	'noticeBannerType'=> Config::INTERSTITIAL_NOTICE_BANNER,
+	'consentType'=> Config::EXPRESS,
+	'palette'=> Config::DARK_SKIN,
+	'cookiesPolicyUrl'=> 'http://www.example.com/cookie-policy',
+]) ?>
+
+```
