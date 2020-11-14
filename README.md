@@ -16,7 +16,6 @@ composer require ajaz/cookie-consent-php
 
 ```php
 use Ajaz\CookieConsent\Widget;
-use Ajaz\CookieConsent\Config;
 
 require 'vendor/autoload.php';
 
