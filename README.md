@@ -75,3 +75,7 @@ require 'vendor/autoload.php';
         </tr>
     </tbody>
 </table>
+
+## Worth knowing
+
+Widgets throws an `InvalidArgumentException` if you define an invalid property in Widget::run() method
