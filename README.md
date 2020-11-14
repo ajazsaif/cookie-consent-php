@@ -7,7 +7,7 @@ PHP Cookie Consent Widget
 composer require ajaz/cookie-consent-php
 ```
 
-### How to use
+### How to use (Below PHP code should be apply in Head section)
 
 ```php
 use Ajaz\CookieConsent\Widget;
