@@ -25,7 +25,7 @@ require 'vendor/autoload.php';
 
 ```
 
-## Options
+## Configuration Options
 
 <table>
     <thead>
