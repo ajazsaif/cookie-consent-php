@@ -8,7 +8,7 @@ composer require ajaz/cookie-consent-php
 ```
 <p align="center">
     <a href="https://github.com/ajazsaif/cookie-consent-php" target="_blank">
-        <img src="https://github.com/ajazsaif/cookie-consent-php/blob/master/cookie-consent.png" width="400" alt="ajaz/cookie-consent-php" />
+        <img src="https://github.com/ajazsaif/cookie-consent-php/blob/master/cookie-consent.png" width="600" alt="ajaz/cookie-consent-php" />
     </a>
 </p>
 
