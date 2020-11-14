@@ -6,6 +6,11 @@ PHP Cookie Consent Widget
 ```
 composer require ajaz/cookie-consent-php
 ```
+<p align="center">
+    <a href="https://github.com/ajazsaif/cookie-consent-php" target="_blank">
+        <img src="https://github.com/ajazsaif/cookie-consent-php/blob/master/cookie-consent.png" width="400" alt="ajaz/cookie-consent-php" />
+    </a>
+</p>
 
 ### How to use (Below PHP code should be apply in Head section)
 
